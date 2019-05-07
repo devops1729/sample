@@ -1,2 +1,7 @@
 hello from test3
+<<<<<<< HEAD
 i am working on dev branch
+=======
+
+i am from master branch
+>>>>>>> master
